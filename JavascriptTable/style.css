@@ -1,0 +1,13 @@
+.input_field{
+    margin-top:50px;
+    background-color: black;
+}
+
+body{
+    text-align: center;
+}
+.input_field, button{
+    background-color: darkblue;
+    
+    color: wheat;
+}
